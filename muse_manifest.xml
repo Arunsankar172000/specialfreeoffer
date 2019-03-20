@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="specialfreeoffers.ga" resolutions="1x" timestamp="1552801000227">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="specialoffers.ga" resolutions="1x" timestamp="1553083091885">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="494012733" ref="index"/>
-    <file name="nomq_index.css" crc="491764268" ref="index"/>
+    <file name="index.css" crc="30417509" ref="index"/>
+    <file name="nomq_index.css" crc="4174239376" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,19 +14,13 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="home-favicon.ico" crc="3793620097" ref="index"/>
-    <file name="giftcard-crop-u169.png" crc="57644365" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pointing-finger-emoji-by-google.png" crc="3968879088" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="carinsurance.png" crc="495069163" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="get-it-now.png" crc="94443167" seo="true" ref="index">
+    <file name="get-it-now.png" crc="205247797" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -34,40 +28,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1f448-crop-u257.png" crc="281400838" seo="true" ref="index">
+    <file name="carinsurance303x202.png" crc="3938203131" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="giftcard-crop-u1692.png" crc="238186780" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1f448-crop-u2572.png" crc="4045943068" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="giftcard-crop-u1693.png" crc="4127408149" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1f448-crop-u2573.png" crc="67050155" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="giftcard-crop-u1694.png" crc="236758701" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1f448-crop-u2574.png" crc="459620580" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="giftcard-crop-u1695.png" crc="166904590" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1f448-crop-u2575.png" crc="143363254" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="giftcard-crop-u1696.png" crc="251126670" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1f448.png" crc="3809017472" seo="true" ref="index">
+    <file name="carinsurance222x147.png" crc="4064460445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="home-favicon.ico" crc="72278761" ref="index"/>
   </folder>
-  <file name="index.html" crc="4023905296" seo="true" mt="1552800983291" redirect="true"/>
+  <file name="index.html" crc="4146296999" seo="true" mt="1553083083773" redirect="true"/>
 </manifest>
