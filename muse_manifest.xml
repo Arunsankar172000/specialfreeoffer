@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="specialoffers.ga" resolutions="1x" timestamp="1553083091885">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="specialoffers.ga" resolutions="1x" timestamp="1553083328341">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="30417509" ref="index"/>
+    <file name="index.css" crc="100086407" ref="index"/>
     <file name="nomq_index.css" crc="4174239376" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -37,5 +37,5 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="home-favicon.ico" crc="72278761" ref="index"/>
   </folder>
-  <file name="index.html" crc="4146296999" seo="true" mt="1553083083773" redirect="true"/>
+  <file name="index.html" crc="3912931906" seo="true" mt="1553083315400" redirect="true"/>
 </manifest>
