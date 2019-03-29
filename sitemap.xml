@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://specialoffers.ga/index.html</loc>
-    <lastmod>2019-03-20</lastmod>
+    <lastmod>2019-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://specialoffers.ga/images/carinsurance.png</image:loc>
+      <image:loc>http://specialoffers.ga/images/iphoneraw.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://specialoffers.ga/images/get-it-now.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://specialoffers.ga/images/carinsurance303x202.png</image:loc>
+      <image:loc>http://specialoffers.ga/images/iphone-xs-new-live-wallpapes.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://specialoffers.ga/images/carinsurance222x147.png</image:loc>
+      <image:loc>http://specialoffers.ga/images/iphone-xs-new-live-wallpapes-crop-u273.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/iphone-xs-new-live-wallpapes375x629.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/iphone-xs-new-live-wallpapes-crop-u2732.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
