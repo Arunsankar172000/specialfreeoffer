@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://specialoffers.ga/index.html</loc>
-    <lastmod>2019-03-29</lastmod>
+    <lastmod>2019-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,6 +22,60 @@
     </image:image>
     <image:image>
       <image:loc>http://specialoffers.ga/images/iphone-xs-new-live-wallpapes-crop-u2732.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://specialoffers.ga/timebucks.html</loc>
+    <lastmod>2019-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/bonuses-crop-u532.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/referral.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/payouts156x157.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/get-started-button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/bonuses.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/payouts149x150.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/bonuses-crop-u5322.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/payouts.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/payouts144x145.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/payouts90x91.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/payouts60x61.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://specialoffers.ga/giftcard.html</loc>
+    <lastmod>2019-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/get-started-button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://specialoffers.ga/images/capture.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
