@@ -1,27 +1,31 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="specialoffers.ga" resolutions="1x" timestamp="1556541341760">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="specialoffers.ga" resolutions="1x" timestamp="1562638900319">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="222058469" ref="index"/>
-    <file name="nomq_index.css" crc="342488817" ref="index"/>
-    <file name="timebucks.css" crc="4071054688" ref="timebucks"/>
-    <file name="nomq_timebucks.css" crc="3980019311" ref="timebucks"/>
-    <file name="giftcard.css" crc="3906722679" ref="giftcard"/>
-    <file name="nomq_giftcard.css" crc="4132580146" ref="giftcard"/>
+    <file name="index.css" crc="86833115" ref="index"/>
+    <file name="nomq_index.css" crc="4232875905" ref="index"/>
+    <file name="offer.css" crc="4277769874" ref="offer"/>
+    <file name="nomq_offer.css" crc="4232704412" ref="offer"/>
+  </folder>
+  <folder name="fonts">
+    <file name="brlnsr.woff" crc="4090493718"/>
+    <file name="brlnsr.eot" crc="3961722987"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:timebucks:giftcard"/>
-    <file name="museutils.js" crc="3803043152" ref="index:timebucks:giftcard"/>
-    <file name="whatinput.js" crc="86476730" ref="index:timebucks:giftcard"/>
-    <file name="museconfig.js" crc="380897831" ref="index:timebucks:giftcard"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:timebucks:giftcard"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:timebucks:giftcard"/>
-    <file name="require.js" crc="4157109226" ref="index:timebucks:giftcard"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:offer"/>
+    <file name="museutils.js" crc="3803043152" ref="index:offer"/>
+    <file name="whatinput.js" crc="86476730" ref="index:offer"/>
+    <file name="museconfig.js" crc="380897831" ref="index:offer"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:offer"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:offer"/>
+    <file name="require.js" crc="4157109226" ref="index:offer"/>
+    <file name="webpro.js" crc="242022427" ref="offer"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="offer"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="offer"/>
+    <file name="touchswipe.js" crc="4066113679" ref="offer"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:timebucks:giftcard"/>
-    <file name="iphone-for-free-!!-favicon.ico" crc="72278761" ref="index"/>
-    <file name="iphoneraw.jpg" crc="147947298" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="home-favicon.ico" crc="72278761" ref="index"/>
+    <file name="iphone-xs-new-live-wallpapes470x788.jpg" crc="52384912" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u323-6.png" crc="4154174802" ref="index"/>
@@ -35,6 +39,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u371-4.png" crc="134370847" ref="index"/>
+    <file name="iphone-xs-new-live-wallpapes403x675.jpg" crc="321288265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u323-62.png" crc="4162211632" ref="index"/>
     <file name="u371-42.png" crc="242764063" ref="index"/>
     <file name="iphone-xs-new-live-wallpapes.jpg" crc="254674368" seo="true" ref="index">
@@ -48,8 +55,8 @@
     <file name="iphone-xs-new-live-wallpapes-crop-u273.jpg" crc="4116516801" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u323-65.png" crc="11136174" ref="index"/>
-    <file name="u371-45.png" crc="116026486" ref="index"/>
+    <file name="u323-65.png" crc="4051589209" ref="index"/>
+    <file name="u371-45.png" crc="173937100" ref="index"/>
     <file name="iphone-xs-new-live-wallpapes375x629.jpg" crc="278859936" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -60,87 +67,151 @@
     </file>
     <file name="u323-67.png" crc="416322437" ref="index"/>
     <file name="u371-47.png" crc="3902694551" ref="index"/>
-    <file name="a-master-favicon.ico" crc="72278761" ref="timebucks:giftcard"/>
-    <file name="logo.png" crc="3956081261" seo="true" ref="timebucks">
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="index:offer"/>
+    <file name="offer-favicon.ico" crc="72278761" ref="offer"/>
+    <file name="u446-4.png" crc="18984457" ref="offer"/>
+    <file name="apple-airpods-2.jpg" crc="4119655770" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
     </file>
-    <file name="bonuses-crop-u532.png" crc="4099386996" seo="true" ref="timebucks">
-      <caption webpage="timebucks" alt=""/>
+    <file name="amazon-logo-png.png" crc="427195624" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
     </file>
-    <file name="referral.png" crc="4050730839" seo="true" ref="timebucks">
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
+    <file name="screenshot_20190703-235041_google play store.jpg" crc="30175042" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
     </file>
-    <file name="payouts156x157.png" crc="4048961652" seo="true" ref="timebucks">
-      <caption webpage="timebucks" alt=""/>
+    <file name="screenshot_20190703-235158_newsdog cnn.jpg" crc="4190114395" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
     </file>
-    <file name="get-started-button.png" crc="3837698397" seo="true" ref="timebucks:giftcard">
-      <caption webpage="giftcard" alt=""/>
-      <caption webpage="giftcard" alt=""/>
-      <caption webpage="giftcard" alt=""/>
-      <caption webpage="giftcard" alt=""/>
-      <caption webpage="giftcard" alt=""/>
-      <caption webpage="giftcard" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="gift-card-for-free-!!!" alt=""/>
-      <caption webpage="gift-card-for-free-!!!" alt=""/>
-      <caption webpage="gift-card-for-free-!!!" alt=""/>
-      <caption webpage="gift-card-for-free-!!!" alt=""/>
-      <caption webpage="gift-card-for-free-!!!" alt=""/>
-      <caption webpage="gift-card-for-free-!!!" alt=""/>
+    <file name="screenshot_20190703-235242_newsdog cnn.jpg" crc="3777448329" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
     </file>
-    <file name="bonuses.png" crc="144204957" seo="true" ref="timebucks">
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
-      <caption webpage="timebucks" alt=""/>
+    <file name="screenshot_20190703-235144_google play store.jpg" crc="79886648" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
     </file>
-    <file name="payouts149x150.png" crc="119670369" seo="true" ref="timebucks">
-      <caption webpage="timebucks" alt=""/>
+    <file name="screenshot_20190703-235247_newsdog cnn267x533.jpg" crc="4201946076" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
     </file>
-    <file name="bonuses-crop-u5322.png" crc="3795316377" seo="true" ref="timebucks">
-      <caption webpage="timebucks" alt=""/>
+    <file name="u446-42.png" crc="4193205099" ref="offer"/>
+    <file name="apple-airpods-2624x388.jpg" crc="419780852" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
     </file>
-    <file name="payouts.png" crc="412251753" seo="true" ref="timebucks">
-      <caption webpage="timebucks" alt=""/>
+    <file name="screenshot_20190703-235247_newsdog cnn.jpg" crc="3815060396" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+      <caption webpage="offer" alt=""/>
     </file>
-    <file name="payouts144x145.png" crc="57348472" seo="true" ref="timebucks">
-      <caption webpage="timebucks" alt=""/>
+    <file name="u446-43.png" crc="4146652790" ref="offer"/>
+    <file name="apple-airpods-2705x438.jpg" crc="165092639" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
     </file>
-    <file name="payouts90x91.png" crc="3946812563" seo="true" ref="timebucks">
-      <caption webpage="timebucks" alt=""/>
+    <file name="screenshot_20190703-235041_google play store292x312.jpg" crc="277190375" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
     </file>
-    <file name="payouts60x61.png" crc="4278749510" seo="true" ref="timebucks">
-      <caption webpage="timebucks" alt=""/>
+    <file name="screenshot_20190703-235144_google play store324x294.jpg" crc="79229359" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
     </file>
-    <file name="capture.jpg" crc="238517941" seo="true" ref="giftcard">
-      <caption webpage="giftcard" alt=""/>
-      <caption webpage="giftcard" alt=""/>
-      <caption webpage="giftcard" alt=""/>
-      <caption webpage="giftcard" alt=""/>
-      <caption webpage="giftcard" alt=""/>
-      <caption webpage="giftcard" alt=""/>
-      <caption webpage="gift-card-for-free-!!!" alt=""/>
-      <caption webpage="gift-card-for-free-!!!" alt=""/>
-      <caption webpage="gift-card-for-free-!!!" alt=""/>
-      <caption webpage="gift-card-for-free-!!!" alt=""/>
-      <caption webpage="gift-card-for-free-!!!" alt=""/>
-      <caption webpage="gift-card-for-free-!!!" alt=""/>
+    <file name="u446-44.png" crc="4194951453" ref="offer"/>
+    <file name="screenshot_20190703-235041_google play store291x311.jpg" crc="4044418826" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235144_google play store315x285.jpg" crc="3973303406" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235247_newsdog cnn281x560.jpg" crc="4056344476" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="u446-45.png" crc="3963800757" ref="offer"/>
+    <file name="apple-airpods-2498x310.jpg" crc="4069743949" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235041_google play store229x246.jpg" crc="4260687921" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235144_google play store248x226.jpg" crc="4003007608" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235158_newsdog cnn-crop-u4577.jpg" crc="133437911" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235242_newsdog cnn155x311.jpg" crc="4042295828" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235247_newsdog cnn228x455.jpg" crc="4150258505" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="u446-46.png" crc="4144437307" ref="offer"/>
+    <file name="apple-airpods-2418x260.jpg" crc="522195926" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235041_google play store203x218.jpg" crc="4178808223" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235144_google play store240x218.jpg" crc="3933945702" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235158_newsdog cnn151x291.jpg" crc="3833072480" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235242_newsdog cnn147x295.jpg" crc="4050092007" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235247_newsdog cnn214x428.jpg" crc="3789934770" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="u446-47.png" crc="3888397435" ref="offer"/>
+    <file name="apple-airpods-2337x210.jpg" crc="4250172056" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235041_google play store161x173.jpg" crc="225018488" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235144_google play store196x177.jpg" crc="90399752" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235158_newsdog cnn141x272.jpg" crc="4224571584" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235242_newsdog cnn136x272.jpg" crc="4064125418" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235247_newsdog cnn225x450.jpg" crc="302741539" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="u446-48.png" crc="3969057742" ref="offer"/>
+    <file name="apple-airpods-2300x187.jpg" crc="4185587069" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235041_google play store125x134.jpg" crc="32853319" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235144_google play store139x126.jpg" crc="401039002" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235158_newsdog cnn118x226.jpg" crc="179616309" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235242_newsdog cnn112x225.jpg" crc="3933017484" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
+    </file>
+    <file name="screenshot_20190703-235247_newsdog cnn188x375.jpg" crc="98485714" seo="true" ref="offer">
+      <caption webpage="offer" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="329039947" seo="true" mt="1556540025353" redirect="true"/>
-  <file name="timebucks.html" crc="4058958353" seo="true" mt="1554035683160" redirect="true"/>
-  <file name="giftcard.html" crc="4196746879" seo="true" mt="1556541315580" redirect="true"/>
+  <file name="index.html" crc="254926584" seo="true" mt="1561888573940" redirect="true"/>
+  <file name="offer.html" crc="254855282" seo="true" mt="1562638854289" redirect="true"/>
 </manifest>
